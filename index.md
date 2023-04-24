@@ -4,9 +4,9 @@ layout: home
 # Slider
 slider:
   - image: "/assets/images/banner_1.png"
-    heading: "Nous sommes <br><span>MadeInLagny</span>"
-    heading2: "Professionels Freelance Web Designer"
-    text: "Grâce à la technique PWA, nous concevons et maintenons des sites rapides, engageants, qui fonctionnent sur toutes les plateformes, y compris hors ligne. Tous nos sites sont fournis avec leur app Apple, Android et Windows."
+    heading: "Boostez votre présence web <br><span>grâce à nos sites et app PWA</span>"
+    heading2: ""
+    text: "Nous créons et gérons des sites rapides, engageants, qui fonctionnent sur toutes les plateformes, y compris hors ligne. Tous nos sites sont fournis avec leur app Apple, Android et Windows."
     button:
       name: "Contactez nous"
       link: "mailto:contact@madeinlagny.com"
